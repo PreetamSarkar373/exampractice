@@ -1,0 +1,23 @@
+{
+  "name": "exampractice",
+  "version": "1.0.0",
+  "description": "exam practice for nodejs application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreetamSarkar373/exampractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PreetamSarkar373/exampractice/issues"
+  },
+  "homepage": "https://github.com/PreetamSarkar373/exampractice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
